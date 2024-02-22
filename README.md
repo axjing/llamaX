@@ -7,3 +7,4 @@
 ## 引用
 - https://github.com/facebookresearch/llama.git
 - https://github.com/luisroque/large_laguage_models.git
+- https://huggingface.co/google/gemma-7b-it
